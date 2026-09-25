@@ -18,50 +18,41 @@ I enjoy building practical systems that combine software engineering with AI/ML,
 
 ### Languages
 
-Python
-Java
-C
-JavaScript
-
-\
+*Python
+*Java
+*C
+*JavaScript
 
 ### AI / Machine Learning
 
-Scikit-learn
-Pandas
-Numpy
-Streamlit
-RAG
-LLM
+*Scikit-learn
+*Pandas
+*Numpy
+*Streamlit
+*RAG
+*LLM
 
 Areas: Classification • Regression • Recommendation Systems • Feature Engineering • Hyperparameter Tuning • Ensemble Learning • Model Evaluation • TF-IDF • SMOTE • Feature Extraction • Feature-Level Fusion
 
-\
-
 ### Web Development
 
-React
-HTML
-CSS
-MERN
-
-\
+*React
+*HTML
+*CSS
+*MERN
 
 ### Databases
 
-MySQL
-MongoDB
+*MySQL
+*MongoDB
 
 ### Tools & Technologies
 
-REST APIs
-WebSocket
-JWT
+*REST APIs
+*WebSocket
+*JWT
 
 Areas: Authentication & RBAC • Database Design • File Handling • Stripe
-
-
-\
 
 ---
 
